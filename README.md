@@ -8,8 +8,8 @@ pip install mlxtend pandas numpy matplotlib
 
 ## Dataset
 
-Descargar `groceries.csv` desde el repositorio de mlxtend:  
-https://github.com/rasbt/mlxtend/blob/master/mlxtend/data/data/groceries.csv
+Descargar `groceries.csv` desde el repositorio en Kaggle:  
+[Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download)
 
 Guardar el archivo como `groceries.csv` en el entorno de trabajo.
 
